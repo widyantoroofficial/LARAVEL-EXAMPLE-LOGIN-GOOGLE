@@ -31,6 +31,6 @@ Subject: Request Akses Repo Login Google Laravel
 **PAGE 1**
 ![App Screenshot](screenshot/page_1.jpg)
 **PAGE 2**
-![App Screenshot](screenshot/page_.jpg)
+![App Screenshot](screenshot/page_2.jpg)
 **PAGE 3**
 ![App Screenshot](screenshot/page_3.jpg)
